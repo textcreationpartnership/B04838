@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short declaration of the kingdom of Scotland for information and satisfaction to their brethren of England concerning the present expedition into England.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04838</idno>
+            <idno type="STC">Wing P3473</idno>
+            <idno type="STC">ESTC R182112</idno>
+            <idno type="EEBO-CITATION">51784617</idno>
+            <idno type="OCLC">ocm 51784617</idno>
+            <idno type="VID">175026</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04838)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175026)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2710:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short declaration of the kingdom of Scotland for information and satisfaction to their brethren of England concerning the present expedition into England.</title>
+                  <author>Scotland. Parliament.</author>
+                  <author>Primrose, Archibald, Sir, 1616-1679.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by Evan Tyler ...,</publisher>
+                  <pubPlace>Printed at Edinburgh :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial letter.</note>
+                  <note>Signed at end:  Arch. Primrose.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175026:1"/>
+            <head>A SHORT DECLARATION OF THE KINGDOM OF SCOTLAND, <hi>For Information and Satisfaction to their Brethren of ENGLAND, concerning the preſent Expedition into</hi> ENGLAND.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough we have reaſon to beleeve that the bloody and barbarous attempts of the Papiſts and their Faction, both in <hi>England</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and the manifold oppreſsions and miſeries endured by thoſe that ſtand well affected to the Proteſtant Religion, and their Coun<g ref="char:EOLhyphen"/>treys Libertie, have made way in the hearts of men for the ready entertainment of aſſiſtance from their Brethren, whoſe earneſt deſire it is, and whoſe utmoſt endeavour it ſhall be, to preſerve and reſtore both unto them: Yet knowing how induſtrious the malice of the Devil and his Inſtruments are, in raiſing Prejudices, and fomenting Jealouſies betwixt them whoſe hearts and mindes ought to be one, becauſe their happineſſe is the ſame, and particularly betwixt us and our Brethren of <hi>England,</hi> that by dividing us from each other, they might deſtroy us both: And that this our ſecond Expedition into <hi>England</hi> (which we doubt not but God will bleſſe, to the advan<g ref="char:EOLhyphen"/>tage of that Nation, as he did our firſt, to the happineſſe of our own) in ſtead of wonder and oppoſition, may finde the cheerfull con<g ref="char:EOLhyphen"/>currence of all thoſe who together with us deſire, The Preſervation and Reformation of Religion; The honour and happineſſe of the King; The Peace and Liberty of the Kingdoms: We thought fit to premit this ſhort, but free and ingenuous Declaration, of our Grounds and Intentions in this our preſent undertaking, that ſo we may meet with none but ſuch as we may either finde peaceable or leave inexcuſable.</p>
+            <p>Whereas therefore the greateſt queſtions that are like to ariſe in this buſineſſe may be reduced to theſe three particulars, <hi>viz. The juſtneſſe of our Cauſe: The lawfulneſſe of our calling thereto:</hi> And <hi>The faithfulneſſe of our carriages therein;</hi> We ſhall hereby endeavour to give ſatisfaction in them all, and doubt not to do it, unleſſe there remain ſome whoſe inveterate malice hath produced in them a reſolution to be unſatisfied.</p>
+            <p>As for the cauſe and ground of this undertaking, we are not ignorant with how much earneſtneſſe the ſonnes of ſlander and perdition (whoſe cuſtome is to tra<g ref="char:EOLhyphen"/>duce thoſe proceedings which they know not how to diſappoint) do endeavour to poſſeſſe the hearts of our Brethren, that we are coming to fiſh in the troubled waters of <hi>England,</hi> to ſeek and take our own advantages in the midſt of your neceſſities. But ſuffer not your eares, much leſſe your hearts, to be open to any ſuch deluſions, whereof we truſt your eyes ſhall ſhortly witneſſe the falſhood: For as hereafter we doubt not to appeal to our carriages and your conſciences, beſides your late experience of our Religious obſervance of our former Declarations of this kinde; ſo in the mean time give us leave to appeal to the great ſearcher of hearts, who knows; That had not the love of Chriſt, requiring Chriſtians to bear one anothers burden; and the Law of nature, challenging our utmoſt care and endeavour, for the prevention of our own danger and ruine, which an ordinary underſtanding will eaſily ſee to be wrapped up in our neighbours; And our dutie, and deſire of reſcuing the King from the dangers wherein he is involved, by the company and pernicious Counſell of thoſe who are enemies to Religion, his Majeſties happineſſe, and Peace of his Dominions; Called and compelled us to this Service, we could, with far more content and ſatisfaction to our ſelves, have enjoyed with quietneſſe our <hi>dry morſell, then entred into your houſes full of ſacrifices with ſtrife:</hi> Which yet ſince we are required and neceſſitated to, by that juſt Calling, hereafter to be mentioned, <hi>We profeſſe before God and the World,</hi> that our hearts and thoughts are clean and free from any other Intentions then thoſe expreſſed in our ſolemne League and Covenant, in which we are confederate with <hi>England, viz.</hi> The Preſervation and Reformation of Religion; The Honour and Happineſſe of the King; and, The Peace and Liberties of the Kingdoms. All which we now apprehend to be deeply endangered, by the Councels and Confederacies of Papiſts, Prelats, Malignants, and their adherents, ſo prevalent in <hi>England</hi> and <hi>Ireland:</hi> And we ſhall no otherwiſe deſire a bleſſing upon our endeavours, then as they ſhall be di<g ref="char:EOLhyphen"/>rected to the conſervation and eſtabliſhment thereof.</p>
+            <p>And becauſe it is not ſufficient to be ingaged in a good Cauſe, unleſſe by a good calling, we do hereby further declare, That though the inſeparable intereſts of both Nations in <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> Religion and Liberties, which having the ſame common Enemies, muſt look to ſtand and fall together, might have given us ſufficient war<g ref="char:EOLhyphen"/>rant to have endeavoured the prevention of our own ruine, by preſerving our Friends and Brethren from deſtruction: yet that we might be the more fully and for<g ref="char:EOLhyphen"/>mally obliged to this Chriſtian dutie and ſervice, and ſo the mouth of ſlander and malice be ſtopped, God hath ſo ordered things in his wiſe and juſt Providence, that the Parliament of <hi>England,</hi> who (beſide their intereſt in the Preſervation and Reformation of Religion, and the defence of the Lawes and Liberties of the Kingdom, to which our help is required) have a particular obligation upon this nation, (As we have formerly declared in our Intentions publiſhed before our laſt Expedition) for refuſing to countenance or maintain a War againſt us, in the yeere 1640. have thought fit by their Commiſſioners, enabled to that effect, to deſire a firme Union with us, and this juſt and neceſſary aſſiſtance from us.</p>
+            <p>And whereas it is too obvious an Objection, That the Kings command or conſent being no ingredient, our Calling is thereby rendred deficient: We anſwer, That though, through the injury of miſchievous Councels, both his Perſon and perſonall Commands are withheld from us: Yet his Honour, his Happineſſe, his Poſte<g ref="char:EOLhyphen"/>rity, his great Councell, and the welfare of his Kingdoms, Call importunately to us for this timely interpoſing. So that unleſſe we can (which God forbid) blot out of our thoughts the ſenſe of Pietie and Religion toward God, of Honour and Duty toward our Soveraigne, and of Gratitude toward the Parliament and King<g ref="char:EOLhyphen"/>dom of <hi>England,</hi> we can in no wiſe reſiſt our preſent Call to this undertaking.</p>
+            <p>And laſtly, for what concerns the manner of the purſuance of this juſt Cauſe and lawfull Calling: Although the many fruſtrate Petitions and Remonſtrances from both Kingdoms preſented to his Majeſtie, have left us onely this way, which yet is not intended againſt his Majeſties Perſon, nor any of his good Subjects, but thoſe Enemies of the King and Kingdoms, with whom no other means can prevaile: Yet we ſhall diligently endeavour ſo to order the affairs of our Armie, that all Inſolencies, Rapines, Plunderings, and thoſe other calamities that uſually attend upon War, may be prevented. And herein as with no ſmall content to our ſelves, ſo with no leſſe ſatisfaction to you, are we able to refer you to the experience of our former Expedition (when our own neceſſities drove us into <hi>England,</hi> as now yours do call us) to Conlider how little damage was occaſioned by our means, how little diſorder was committed by us in any place where we came: and we here<g ref="char:EOLhyphen"/>by promiſe the like care and diligence ſhall be renewed, and if poſſible doubled to that effect.</p>
+            <p>And that we may not be looked on with the prejudice of Strangers, which we hope the firm Union of this mutuall Covenant will wear out, There is a Com<g ref="char:EOLhyphen"/>mittee of your own Nation, the moſt of which are Parliament men, ſuch to whom you have committed the truſt and care of your Religion, Lawes, and Liberties, joyned with us, without whoſe concurrence nothing that concerns you is to be tranſacted. And to free you of all unjuſt ſuſpition, which if your minds are not ready to conceive, yet the malicious mouthes of our adverſaries and yours are ready to ſuggeſt, That notwithſtanding this Declaration, we have ſome ſiniſter and ſecret ends which may prove prejudiciall to your Rights and happineſſe: <hi>Be it hereby made known</hi> unto you, that we have freely ingaged our ſelves, by an Article of the late Treatie betwixt the Nations, to give the publike Faith of the Kingdom of <hi>Scotland</hi> unto the Kingdom of <hi>England,</hi> That neither our entrance into nor continuance in that Kingdom, ſhall be made uſe of to any other ends then are expreſſed in the Covenant, and that Treatie ſubſcribed by the Commiſſioners o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both Kingdoms, which we are reſolved, to the honour of God and of this nation, to keep inviolate.</p>
+            <p>And as our Friends and Brethren may look for actions conform to the expreſſions of this Declaration, ſo muſt the Malignants and implacable oppoſers of the ends declared in our Covenant, expect nothing but an impartiall and vigorous proſecution of the ſame: in which, if any evil befall them, we are confident that the judgement of wiſe and indifferent men will reduce it to themſelves, as the wilfull authours thereof.</p>
+            <p>And finally we declare (againſt all falſe and artificiall relations) that we are ſo far from deſiring harm or loſſe to any of our Brethren of <hi>England,</hi> that our ſin<g ref="char:EOLhyphen"/>cere and reall Intentions are not to adde fuell, nor bring oyl, but water to extinguiſh theſe lamentable combuſtions and fires, which we have with ſo much dutie and love laboured to quench: That our taking of Arms is not to make Wars (if we be not neceſſitated) but to obtain a better grounded and a more durable Peace, for enjoying of our Religion and Liberties in all the three Kingdoms: and that the wicked (who are the unworthy authours of all our troubles) being removed from our King, a right underſtanding may be eſtabliſhed betwixt his Majeſtie and his people. And as we have ſolemnly ſworn to protect and defend all who ſhall enter in, and adhere to this Covenant: So do we certainly expect, that all our Brethren in <hi>England</hi> who are zealous for the true Proteſtant Religion, loyall to the King, and faithfull for their Countrey, will joyn and concurre with us in the moſt noble and juſt wayes of procuring theſe juſt deſires: which being obtained, we ſhall be moſt willing and ready to return to our native Countrey, eſteeming it our greateſt happineſſe, that Truth with Peace may be eſtabliſhed in all His Majeſties Dominions.</p>
+            <closer>
+               <signed>Arch. Primeroſe.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Edinburgh</hi> by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſtie. 1643.</p>
+            <pb facs="tcp:175026:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
